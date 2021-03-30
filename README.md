@@ -3,6 +3,7 @@ paper sharing
 
 ### Voice Conversion
 Cotatron: Transcription-Guided Speech Encoder for Any-to-Many Voice Conversion without Parallel Data
+
 [paper](./paper/Cotatron-%20Transcription-Guided%20Speech%20Encoder%20for%20Any-to-Many%20Voice%20Conversion%20without%20Parallel%20Data.pdf)
 [slides](./slides/wr_Pre0311.pptx)
 <details>
@@ -13,6 +14,7 @@ Cotatron: Transcription-Guided Speech Encoder for Any-to-Many Voice Conversion w
 </details>
 
 A Batch Normalized Inference Network Keeps the KL Vanishing Away
+
 [paper](./paper/A%20Batch%20Normalized%20Inference%20Network%20Keeps%20the%20KL%20Vanishing%20Away.pdf)
 <details>
 <summary>概述</summary>
@@ -22,6 +24,7 @@ A Batch Normalized Inference Network Keeps the KL Vanishing Away
 </details>
 
 Exploring Phoneme-Level Speech Representations for End-to-End Speech Translation
+
 [paper](./paper/Exploring%20Phoneme-Level%20Speech%20Representations%20for%20End-to-End%20Speech%20Translation.pdf)
 <details>
 <summary>概述</summary>
@@ -30,6 +33,7 @@ Exploring Phoneme-Level Speech Representations for End-to-End Speech Translation
 </details>
 
 Towards Practical Lipreading with Distilled and Efficient Models
+
 [paper](./paper/TOWARDS%20PRACTICAL%20LIPREADING%20WITH%20DISTILLED%20AND%20EFFICIENT%20MODELS.pdf)
 [slides](./slides/Toward_pratical_lipreading_with_distilled_and_efficient_models.pptx)
 <details>
@@ -39,6 +43,7 @@ Towards Practical Lipreading with Distilled and Efficient Models
 </details>
 
 Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation
+
 [paper](./paper/Google’s%20Multilingual%20Neural%20Machine%20Translation%20System-Enabling%20Zero-Shot%20Translation.pdf)
 <details>
 <summary>概述</summary>
@@ -48,6 +53,7 @@ Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Tr
 </details>
 
 Multilingual Speech Recognition with Corpus Relatedness Sampling
+
 [paper](./paper/Multilingual%20Speech%20Recognition%20with%20Corpus%20Relatedness%20Sampling.pdf)
 <details>
 <summary>概述</summary>
@@ -58,6 +64,7 @@ Multilingual Speech Recognition with Corpus Relatedness Sampling
 </details>
 
 FastBERT: a Self-distilling BERT with Adaptive Inference Time
+
 [paper](./paper/FastBERT%20a%20Self-distilling%20BERT%20with%20Adaptive%20Inference%20Time.pdf)
 <details>
 <summary>概述</summary>
@@ -66,6 +73,7 @@ FastBERT: a Self-distilling BERT with Adaptive Inference Time
 </details>
 
 Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting
+
 [paper](./paper/Informer-%20Beyond%20Efficient%20Transformer%20for%20Long%20Sequence%20Time-Series%20Forecasting.pdf)
 <details>
 <summary>概述</summary>
@@ -74,6 +82,7 @@ Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting
 </details>
 
 Character-Level Translation with Self-attention
+
 [paper](./paper/Character-Level%20Translation%20with%20Self-attention.pdf)
 [slides](./slides/Character-Level%20Translation%20with%20Self-attention.pptx)
 <details>
